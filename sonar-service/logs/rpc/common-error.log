@@ -1,0 +1,14 @@
+2017-11-08 11:54:26,256 ERROR Thread-3                         - Stop RPCServer Error!
+com.alipay.sofa.rpc.core.exception.SofaRpcException: RPC-02410: 停止Sofa TR服务器端错误 
+	at com.alipay.sofa.rpc.remoting.tr.server.NIOProviderServer.stopServer(NIOProviderServer.java:158)
+	at com.alipay.boot.sofarpc.spring.listener.ApplicationContextClosedListener.onApplicationEvent(ApplicationContextClosedListener.java:54)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.invokeListener(SimpleApplicationEventMulticaster.java:166)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:138)
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:383)
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:337)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:994)
+	at org.springframework.context.support.AbstractApplicationContext$2.run(AbstractApplicationContext.java:928)
+Caused by: java.lang.IllegalStateException: ERROR: The server has already stopped!
+	at com.alipay.remoting.RemotingServer.stop(RemotingServer.java:125)
+	at com.alipay.sofa.rpc.remoting.tr.server.NIOProviderServer.stopServer(NIOProviderServer.java:148)
+	... 7 common frames omitted

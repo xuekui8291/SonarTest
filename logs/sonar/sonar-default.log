@@ -1,0 +1,11 @@
+2017-11-08 11:48:08.873 [main] INFO  com.alipay.sofa.common.log - Sofa-Middleware-Log SLF4J : Actual logging.path is [ ./logs ]
+2017-11-08 11:48:08.879 [main] INFO  com.alipay.sofa.common.log - Sofa-Middleware-Log SLF4J : Actual binding is of type [ com.alipay.sofa.rpc Logback ]
+2017-11-08 11:48:09.308 [main] INFO  common.Slite2SpringBootApplication - Starting Slite2SpringBootApplication on xuekuimac-mini.local with PID 7828 (/workspace/shuli/test/sonar-test/sonar/sonar-service/target/classes started by zhangxuekui in /workspace/shuli/test/sonar-test/sonar)
+2017-11-08 11:48:09.309 [main] INFO  common.Slite2SpringBootApplication - No active profile set, falling back to default profiles: default
+2017-11-08 11:48:09.359 [main] INFO  o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@3901d134: startup date [Wed Nov 08 11:48:09 CST 2017]; root of context hierarchy
+2017-11-08 11:48:09.783 [main] INFO  o.s.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from file [/workspace/shuli/test/sonar-test/sonar/sonar-service/target/classes/META-INF/sonar/sonar-service.xml]
+2017-11-08 11:48:10.324 [main] INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-11-08 11:48:10.604 [main] INFO  o.s.jmx.export.annotation.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+2017-11-08 11:48:11.233 [main] INFO  com.alipay.sofa.common.log - Sofa-Middleware-Log SLF4J : Actual binding is of type [ com.alipay.boot.rpc Logback ]
+2017-11-08 11:48:11.397 [main] INFO  common.Slite2SpringBootApplication - Started Slite2SpringBootApplication in 3.596 seconds (JVM running for 5.039)
+2017-11-08 11:48:11.406 [worker-2-thread-2] INFO  com.alipay.sofa.common.log - Sofa-Middleware-Log SLF4J : Actual binding is of type [ com.alipay.sofa.dsr Logback ]

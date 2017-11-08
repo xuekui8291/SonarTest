@@ -1,0 +1,11 @@
+2017-11-08 11:54:23.223 [main] INFO  com.alipay.sofa.common.log - Sofa-Middleware-Log SLF4J : Actual logging.path is [ ./logs ]
+2017-11-08 11:54:23.231 [main] INFO  com.alipay.sofa.common.log - Sofa-Middleware-Log SLF4J : Actual binding is of type [ com.alipay.sofa.rpc Logback ]
+2017-11-08 11:54:23.974 [main] INFO  common.test.usercases.BeanTest - Starting BeanTest on xuekuimac-mini.local with PID 7832 (started by zhangxuekui in /workspace/shuli/test/sonar-test/sonar/sonar-service)
+2017-11-08 11:54:23.974 [main] INFO  common.test.usercases.BeanTest - No active profile set, falling back to default profiles: default
+2017-11-08 11:54:24.006 [main] INFO  o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@47987356: startup date [Wed Nov 08 11:54:24 CST 2017]; root of context hierarchy
+2017-11-08 11:54:24.735 [main] INFO  o.s.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from file [/workspace/shuli/test/sonar-test/sonar/sonar-service/target/classes/META-INF/sonar/sonar-service.xml]
+2017-11-08 11:54:25.226 [main] INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-11-08 11:54:25.970 [main] INFO  com.alipay.sofa.common.log - Sofa-Middleware-Log SLF4J : Actual binding is of type [ com.alipay.boot.rpc Logback ]
+2017-11-08 11:54:26.166 [worker-2-thread-2] INFO  com.alipay.sofa.common.log - Sofa-Middleware-Log SLF4J : Actual binding is of type [ com.alipay.sofa.dsr Logback ]
+2017-11-08 11:54:26.169 [main] INFO  common.test.usercases.BeanTest - Started BeanTest in 4.094 seconds (JVM running for 5.875)
+2017-11-08 11:54:26.250 [Thread-3] INFO  o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@47987356: startup date [Wed Nov 08 11:54:24 CST 2017]; root of context hierarchy
