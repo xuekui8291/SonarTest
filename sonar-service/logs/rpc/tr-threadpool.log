@@ -1,3 +1,6 @@
 2017-11-08 11:54:25,988 INFO  main                             RPC-TR-THREADPOOL - coreSize:80,maxPoolSize:400,keepAliveTime:300000
 
 2017-11-08 11:54:25,989 INFO  RPC-RES-MONITOR                  RPC-TR-THREADPOOL - blockQueue:0, active:0, idle:0, poolSize:0
+2017-11-08 14:44:48,247 INFO  main                             RPC-TR-THREADPOOL - coreSize:80,maxPoolSize:400,keepAliveTime:300000
+
+2017-11-08 14:44:48,248 INFO  RPC-RES-MONITOR                  RPC-TR-THREADPOOL - blockQueue:0, active:0, idle:0, poolSize:0

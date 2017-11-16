@@ -17,7 +17,6 @@ public class TestABC {
         return "B";
     }
 
-
     public String printC(){
 
         System.out.println("CCCCCCCCCCCC");

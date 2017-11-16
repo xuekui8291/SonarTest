@@ -1,1 +1,2 @@
 2017-11-08 11:54:26,138 INFO  main                             RPC-REGISTRY - 发布 RPC 服务：服务名[common.facade.SampleService:1.0@DEFAULT]
+2017-11-08 14:44:48,393 INFO  main                             RPC-REGISTRY - 发布 RPC 服务：服务名[common.facade.SampleService:1.0@DEFAULT]

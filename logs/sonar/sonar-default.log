@@ -9,3 +9,5 @@
 2017-11-08 11:48:11.233 [main] INFO  com.alipay.sofa.common.log - Sofa-Middleware-Log SLF4J : Actual binding is of type [ com.alipay.boot.rpc Logback ]
 2017-11-08 11:48:11.397 [main] INFO  common.Slite2SpringBootApplication - Started Slite2SpringBootApplication in 3.596 seconds (JVM running for 5.039)
 2017-11-08 11:48:11.406 [worker-2-thread-2] INFO  com.alipay.sofa.common.log - Sofa-Middleware-Log SLF4J : Actual binding is of type [ com.alipay.sofa.dsr Logback ]
+2017-11-08 15:39:35.794 [Thread-3] INFO  o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@3901d134: startup date [Wed Nov 08 11:48:09 CST 2017]; root of context hierarchy
+2017-11-08 15:39:35.807 [Thread-3] INFO  o.s.jmx.export.annotation.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown

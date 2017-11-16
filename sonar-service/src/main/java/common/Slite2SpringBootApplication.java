@@ -25,6 +25,7 @@ public class Slite2SpringBootApplication {
         ApplicationContext applicationContext = springApplication.run(args);
         SampleService sampleService = applicationContext.getBean(SampleService.class);
         System.out.println("Sample Service Result = " + sampleService.message());
+        logger.log("My Message");
         System.out.println("Current Application Context : " + applicationContext);
     }
 }
